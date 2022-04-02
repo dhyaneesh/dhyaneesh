@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xoxo-twod
+- 👋 Hi, I’m @dhyaneesh
 - 👀 I’m interested in Artifical Intelligence and Machine Learning 
 - 🌱 I’m currently learning Solidity
 - 📫 Hit me up on @dhyxneesh on Instagram 
