@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhyaneesh
-- 👀 I’m interested in Artifical Intelligence and Machine Learning 
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Data Science  
+- 🌱 I’m currently learning Data Science 
 - 📫 Hit me up on @dhyxneesh on Instagram 
 
 <!---
