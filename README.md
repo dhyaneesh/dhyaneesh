@@ -1,5 +1,3 @@
----
-
 # 🌍 Exploring Systems, Intelligence, and Discovery  
 
 Innovation emerges at the intersection of structure and possibility. My work focuses on uncovering patterns, optimizing complex systems, and leveraging technology to enhance understanding and progress.  
